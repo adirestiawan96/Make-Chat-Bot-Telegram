@@ -1,7 +1,7 @@
 - [1. Make bot in the Telegram to Monitor Host or Server](#1-make-bot-in-the-telegram-to-monitor-host-or-server)
   - [1.1. Make bot in the Telegram](#11-make-bot-in-the-telegram)
-  - [Make Script to monitor HOST or Server](#make-script-to-monitor-host-or-server)
-  - [Finally make crontab to start your script in the HOST](#finally-make-crontab-to-start-your-script-in-the-host)
+  - [1.2. Make Script to monitor HOST or Server](#12-make-script-to-monitor-host-or-server)
+  - [1.3. Finally make crontab to start your script in the HOST](#13-finally-make-crontab-to-start-your-script-in-the-host)
 
 # 1. Make bot in the Telegram to Monitor Host or Server
 
@@ -13,7 +13,7 @@
   - go to browser and use link https://api.telegram.org/bot"replace with your api telegram"/getUpdates
   - Note your chat id to make configuration to script test ping to monitor connection HOST or Server
 
-## Make Script to monitor HOST or Server
+## 1.2. Make Script to monitor HOST or Server
   - Follow configuration test.sh
 
-## Finally make crontab to start your script in the HOST
+## 1.3. Finally make crontab to start your script in the HOST
