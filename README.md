@@ -22,3 +22,4 @@
   - next set your time your crontab ex */3 **** /root/test.sh
   - after set crontab next to command crontab -l to show configur crontab and to run crontab
   - finish you will get a notif if, your HOST is down or can't to ping.
+  - OK FINISH.
